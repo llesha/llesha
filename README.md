@@ -1,5 +1,7 @@
-### Hello
+### 
+I am making generators&games in my spare time.
 
+Most of my projects are here: https://waterstop.itch.io
 <!--
 **Alex5041/Alex5041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
