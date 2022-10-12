@@ -1,4 +1,4 @@
-I am making generators & games in my spare time.
+I make generators & games in my spare time.
 
 Most of my projects are here: https://waterstop.itch.io
 <!--
