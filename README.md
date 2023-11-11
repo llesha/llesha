@@ -1,6 +1,10 @@
-I make generators & games in my spare time.
+I make programming stuff in my spare time. Passionate about parsers, gamedesign and procedural generation.
 
-Most of my projects are here: https://llesha.itch.io
+Most of my games are on [itch.io](https://llesha.itch.io).
+
+Relevant repos I (co)authored:
+* [Geomc logic language](https://github.com/konichiva-geom/GeometryChecker)
+* [Image to code telegram bot](https://github.com/gudarikon/image-to-code)
 <!--
 **Alex5041/Alex5041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
